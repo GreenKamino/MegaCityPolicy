@@ -1,0 +1,31 @@
+kind = "web"
+previewPath = "/desktop/"
+title = "MegaCity (Desktop View)"
+version = "1.0.0"
+id = "artifacts/megacity-desktop"
+router = "path"
+
+[[integratedSkills]]
+name = "react-vite"
+version = "1.0.0"
+
+[[services]]
+name = "web"
+paths = [ "/desktop/" ]
+localPort = 24373
+
+[services.development]
+run = "pnpm --filter @workspace/megacity-desktop run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/megacity-desktop", "run", "build" ]
+publicDir = "artifacts/megacity-desktop/dist/public"
+serve = "static"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "24373"
+BASE_PATH = "/desktop/"

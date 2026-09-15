@@ -1,0 +1,1 @@
+export const RESEARCH_COST_MULTIPLIER = 12;

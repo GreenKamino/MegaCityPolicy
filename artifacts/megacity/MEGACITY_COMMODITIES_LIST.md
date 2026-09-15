@@ -1,0 +1,1490 @@
+# MEGACITY — Resources, Commodities & Trade Goods
+
+## Core Resources (city economy)
+- Credits
+- Food
+- Water
+- Power
+- Steel
+- Goods
+- Fuel
+- Medical Supplies
+- Ammunition
+
+_Total core resources: 9_
+
+## Tradeable Commodities & Trade Goods
+
+### RAW ORE & MINERALS (36)
+- Iron Ore
+- Copper Ore
+- Aluminum Ore (Bauxite)
+- Tin Ore
+- Lead Ore
+- Zinc Ore
+- Nickel Ore
+- Titanium Ore
+- Chromium Ore
+- Manganese Ore
+- Tungsten Ore
+- Cobalt Ore
+- Molybdenum Ore
+- Uranium Ore
+- Thorium Ore
+- Lithium Deposits
+- Rare Earth Minerals
+- Silicon Ore (Quartz)
+- Gold Ore
+- Silver Ore
+- Platinum Ore
+- Coal Deposits
+- Sulfur Deposits
+- Phosphate Rock
+- Limestone
+- Graphite
+- Sand Deposits
+- Gravel Deposits
+- Industrial Clay
+- Scrap Metal
+- Electronic Waste
+- Salvaged Machinery
+- Wasteland Salvage
+- Construction Debris
+- Crude Oil
+- Natural Gas (Raw)
+
+### METALS & ALLOYS (41)
+- Steel Ingots
+- Steel Bars
+- Steel Sheets
+- Steel Plates (Armor Grade)
+- Steel Rods
+- Steel Wire
+- Steel Mesh
+- Structural Steel Beams
+- Stainless Steel Sheets
+- Copper Ingots
+- Copper Bars
+- Copper Wire
+- Copper Tubing
+- Copper Sheets
+- Aluminum Ingots
+- Aluminum Sheets
+- Aluminum Extrusions
+- Aluminum Foil
+- Titanium Ingots
+- Titanium Plates
+- Titanium Alloy Bars
+- Nickel Ingots
+- Tin Ingots
+- Lead Ingots
+- Zinc Ingots
+- Chromium Bars
+- Tungsten Bars
+- Cobalt Ingots
+- Gold Bars
+- Silver Bars
+- Platinum Bars
+- Carbon Fiber Sheets
+- Graphene Sheets
+- Nano-Alloy Composite
+- Depleted Uranium Rods
+- Reinforced Alloy Panels
+- Steel Ingot
+- Copper Ingot
+- Aluminum Ingot
+- Titanium Alloy
+- Reactor Alloy
+
+### GASES (20)
+- Oxygen (Industrial)
+- Oxygen (Medical Grade)
+- Liquid Nitrogen
+- Nitrogen Gas
+- Hydrogen Gas
+- Liquid Hydrogen
+- Helium Gas
+- Argon Gas
+- Carbon Dioxide (Industrial)
+- Acetylene
+- Propane Gas
+- Butane Gas
+- Methane Gas
+- Natural Gas (Refined)
+- Neon Gas
+- Xenon Gas
+- Chlorine Gas
+- Ammonia Gas
+- Compressed Air (Cylinders)
+- Sulfur Dioxide
+
+### CHEMICALS (24)
+- Sulfuric Acid
+- Hydrochloric Acid
+- Nitric Acid
+- Sodium Hydroxide (Lye)
+- Industrial Ethanol
+- Methanol
+- Acetone
+- Industrial Bleach
+- Chemical Solvents (Mixed)
+- Industrial Adhesives
+- Epoxy Resins
+- Industrial Paint
+- Chemical Fertilizer (NPK)
+- Pesticides
+- Herbicides
+- Industrial Lubricants
+- Hydraulic Fluid
+- Coolant Fluid
+- Machine Oil
+- Silicone Sealant
+- Polyurethane Foam
+- Cleaning Chemicals
+- Water Treatment Chemicals
+- Explosive Compounds
+
+### PLASTICS & POLYMERS (20)
+- Polyethylene Pellets (PE)
+- Polypropylene Pellets (PP)
+- PVC Granules
+- ABS Pellets
+- Nylon Pellets
+- Polycarbonate Sheets
+- Acrylic Sheets
+- Plastic Pipes (PVC/PE)
+- Plastic Sheeting (Rolls)
+- Plastic Containers
+- Plastic Packaging Film
+- Foam Insulation Boards
+- Raw Rubber
+- Rubber Sheets
+- Rubber Seals & Gaskets
+- Rubber Hoses
+- Synthetic Fibers (Polyester)
+- Polymer Sheets (Mixed)
+- Composite Panels
+- 3D Print Filament
+
+### ELECTRONICS (30)
+- Silicon Wafers
+- Microprocessors (CPUs)
+- Memory Chips (RAM)
+- Printed Circuit Boards
+- LED Panels
+- LCD Display Modules
+- OLED Screens
+- Optical Sensors
+- Motion Sensors
+- Temperature Sensors
+- Pressure Sensors
+- Camera Modules
+- GPS Modules
+- Radio Transceivers
+- Antenna Arrays
+- Fiber Optic Cable
+- Electrical Cable (Spools)
+- Wire Bundles
+- Cable Connectors
+- Resistors & Capacitors
+- Transistors
+- Diodes & LEDs
+- Servo Motors
+- Small Electric Motors
+- Data Storage Drives
+- Power Supply Units
+- Transformers
+- Relays & Switches
+- Navigation Systems
+- Surveillance Cameras
+
+### FOODSTUFFS (21)
+- Grain Rations
+- Processed Food Packs
+- Emergency Rations (MRE)
+- Flour (Bulk)
+- Refined Sugar
+- Refined Salt
+- Cooking Oil
+- Powdered Milk
+- Canned Goods (Assorted)
+- Dried Pasta
+- Instant Noodles
+- Protein Powder (Bulk)
+- Nutrient Supplements
+- Energy Bars
+- Synthetic Food Base
+- Flavoring Compounds
+- Food Preservatives
+- Yeast Cultures
+- Baby Formula
+- Beverage Concentrates
+- Processed Food
+
+### MEATS & PROTEIN (22)
+- Beef Carcass (Whole)
+- Beef Cuts (Processed)
+- Ground Beef (Bulk)
+- Pork Sides
+- Pork Cuts (Processed)
+- Poultry (Whole Birds)
+- Poultry Cuts (Processed)
+- Lamb Carcass
+- Fresh Fish (Bulk)
+- Frozen Fish (Bulk)
+- Shellfish (Mixed)
+- Synthetic Meat Slabs
+- Insect Protein Blocks
+- Algae Protein Paste
+- Sausages (Bulk)
+- Dried Jerky
+- Canned Meat
+- Organ Meats (Offal)
+- Bone Meal
+- Animal Fat / Tallow
+- Wildlands Meat
+- Wildlands Bone Char
+
+### CROPS & PRODUCE (27)
+- Wheat Grain
+- Rice (Paddy)
+- Corn / Maize
+- Barley
+- Soybeans
+- Potatoes
+- Sweet Potatoes
+- Tomatoes
+- Onions
+- Carrots
+- Cabbage
+- Lettuce & Greens
+- Beans & Lentils
+- Peppers (Mixed)
+- Mushrooms
+- Apples
+- Citrus Fruits
+- Bananas
+- Berries (Mixed)
+- Grapes
+- Hydroponic Greens
+- Algae Biomass
+- Raw Cotton
+- Tobacco Leaf
+- Sugar Cane
+- Medicinal Herbs
+- Wildlands Biomass
+
+### WATER (10)
+- Fresh Water (Bulk Tanks)
+- Purified Water
+- Recycled Water
+- Distilled Water
+- Industrial Process Water
+- Bottled Water (Consumer)
+- Desalinated Water
+- Irrigation Water
+- Cooling Tower Water
+- Ice Blocks
+
+### PHARMACEUTICALS (21)
+- Antibiotics (Generic)
+- Painkillers / Analgesics
+- Anti-Inflammatory Drugs
+- Vaccines (Assorted)
+- Antiviral Medications
+- Medical Stimulants
+- Sedatives / Tranquilizers
+- Anesthetics
+- Blood Plasma
+- Insulin
+- Surgical Supplies
+- Bandages & Dressings
+- First Aid Kits
+- Anti-Radiation Pills
+- Immune Boosters
+- Synthetic Organs
+- BioGel Healing Patches
+- Nano-Medical Capsules
+- Combat Stimulants
+- Detox Compounds
+- Wildlands Antitoxin
+
+### CLOTHING & GEAR (20)
+- Civilian Clothing (Bulk)
+- Work Uniforms
+- Enforcement Uniforms
+- Military Fatigues
+- Protective Coveralls
+- Thermal Jackets
+- Rain Gear
+- Boots (Standard Issue)
+- Boots (Tactical)
+- Work Gloves
+- Tactical Gloves
+- Body Armor (Light)
+- Body Armor (Heavy)
+- Helmets (Standard)
+- Helmets (Riot)
+- Gas Masks
+- Hazmat Suits
+- Radiation Suits
+- Textile Bolts (Raw Fabric)
+- Synthetic Leather
+
+### CONSUMER GOODS (45)
+- Household Appliances
+- Kitchen Appliances
+- Personal Electronics
+- Communication Devices
+- Mobile Data Terminals
+- Household Furniture
+- Mattresses & Bedding
+- Lighting Fixtures
+- Cleaning Products
+- Personal Hygiene Products
+- Toys & Games
+- Books & Media
+- Cooking Utensils
+- Personal Tools
+- Water Filters
+- Portable Heaters
+- Portable Fans / Coolers
+- Personal Defense Devices
+- Civic ID Cards
+- Food Storage Containers
+- Packaged Meals
+- Bottled Drinking Water
+- Energy Drinks
+- Processed Snack Foods
+- Synthetic Protein Bars
+- Luxury Chocolates
+- Street Food Packs
+- Designer Clothing
+- Casual Clothing
+- Footwear
+- Soap & Cleaning Supplies
+- Portable Electronics
+- Communication Tablets
+- Personal Data Devices
+- Home Entertainment Systems
+- Digital Media Subscriptions
+- Decorative Furniture
+- Home Lighting Fixtures
+- Household Tools
+- Smart Home Devices
+- Medical First-Aid Kits
+- Recreation Equipment
+- Standard Work Uniforms
+- Personal Hygiene Kits
+- Consumer Electronics Bundle
+
+### PARTS & COMPONENTS (40)
+- Industrial Bearings
+- Gears (Assorted)
+- Industrial Valves
+- Pressure Relief Valves
+- Small Pumps
+- Industrial Pumps
+- Industrial Springs
+- Fasteners: Bolts & Nuts
+- Fasteners: Screws & Nails
+- Fasteners: Rivets
+- Hinges & Latches
+- Gaskets & Seals
+- Industrial Filters
+- Hydraulic Cylinders
+- Pneumatic Actuators
+- Drive Belts
+- Drive Chains
+- Couplings & Pipe Fittings
+- Brake Pads
+- Spark Plugs
+- Engine Pistons
+- Crankshafts
+- Radiator Cores
+- Exhaust Manifolds
+- Drone Components
+- Droid Chassis Frame
+- Droid Servo Actuator
+- Droid AI Processing Core
+- Droid Sensor Array
+- Droid Power Cell
+- Droid Armor Plating
+- Droid Mobility Module
+- Droid Comms Transceiver
+- Droid Tool Attachment
+- Droid Weapon Mount
+- Circuit Board
+- Mechanical Part
+- Power Cable
+- Utility Pipe
+- Smart Circuitry
+
+### INDUSTRIAL GOODS (97)
+- Diesel Generators
+- Electric Generators
+- Air Compressors
+- Welding Equipment
+- Lathe Machines
+- CNC Machines
+- Hydraulic Presses
+- Conveyor Systems
+- Industrial Furnaces
+- Smelting Equipment
+- Mining Drills
+- Excavation Equipment
+- Cranes & Hoists
+- Forklifts
+- Industrial Robots
+- Automated Assembly Lines
+- Water Purification Systems
+- Air Filtration Systems
+- Refrigeration Units
+- Cargo Containers
+- Processing Machines
+- Laboratory Instruments
+- Medical Equipment
+- Data Servers
+- Transport Vehicles
+- Heavy-Duty Structural Beams
+- Reinforced Concrete Panels
+- Industrial Glass Sheets
+- Composite Construction Panels
+- High-Strength Fasteners
+- Heavy-Duty Industrial Bearings
+- Hydraulic Systems
+- Electric Motors
+- Heavy-Duty Industrial Pumps
+- Power Transformers
+- Fiber-Optic Trunk Cable
+- Control Circuit Boards
+- Industrial Microprocessors
+- Robotics Actuators
+- Industrial Sensors
+- Precision Machine Tools
+- Assembly Line Components
+- Construction Machinery Parts
+- Drone Propulsion Units
+- Heavy Equipment Engines
+- Advanced Battery Packs
+- Reactor Control Rods
+- Satellite Structural Frames
+- Rocket Engine Components
+- Orbital Habitat Modules
+- Consumer Electronics
+- Industrial Plastic
+- Composite Armor Plate
+- Nano-Material
+- Naphtha (Light Distillate)
+- Chemical Feedstock
+- Synthesis Gas
+- Industrial Solvent
+- Epoxy Resin
+- Industrial Adhesive
+- Water Treatment Chemical
+- Industrial Paint
+- Machine Lubricant
+- Gravel Aggregate
+- Processed Timber
+- Sawdust & Shavings
+- Industrial Salt
+- Refined Rare Earth Elements
+- Refined Lithium
+- Glass Sheet
+- Plastic Pipe Stock
+- Moulded Plastic Goods
+- Plastic Housings
+- Synthetic Rubber
+- Carbon Fibre (Raw)
+- Foam Insulation
+- Packaging Foam
+- Bio-Polymer
+- 3D Print Filament
+- Pipe Fittings
+- Polycarbonate Panel
+- Consumer Goods Pack
+- Vehicle Chassis
+- Furniture Units
+- Finished Clothing
+- Precision Tooling
+- Industrial Dies
+- Packaging Materials
+- Ceramic Components
+- Medical Instruments
+- Nano-Coating
+- Smart Alloy
+- Superconductor Wire
+- Ceramic Matrix Composite
+- Aerospace Titanium Part
+- Quantum Dots
+- Industrial Diamond
+
+### ENERGY & FUEL (21)
+- Power Cells
+- Batteries (Standard)
+- Lithium-Ion Batteries
+- Advanced High-Density Batteries
+- Hydrogen Fuel Cells
+- Nuclear Fuel Rods
+- Refined Fuel (Petroleum)
+- Diesel Fuel
+- Aviation Fuel
+- Synthetic Fuel
+- Solar Panels
+- Solar Cells
+- Wind Turbine Blades
+- Portable Generators
+- Power Converters
+- Power Conduits
+- Energy Storage Modules
+- Smart Grid Hardware
+- High-Density Energy Cells
+- Fuel Gas
+- Biomass
+
+### CONSTRUCTION (24)
+- Cement (Bags)
+- Concrete (Pre-Mixed)
+- Reinforced Concrete
+- Rebar (Reinforcing Bar)
+- Bricks
+- Cinder Blocks
+- Timber Beams
+- Plywood Sheets
+- Drywall Panels
+- Roofing Tiles
+- Glass Panels
+- Insulation Rolls
+- Ceramic Tiles
+- Asphalt
+- Grout & Mortar
+- Construction Panels (Prefab)
+- Structural Frames
+- Scaffolding
+- Waterproof Membrane
+- Self-Healing Concrete
+- Concrete Mix
+- Structural Beam
+- Construction Supply Kit
+- Silicon Wafer
+
+### LIVESTOCK (13)
+- Cattle Herds
+- Dairy Cattle
+- Poultry Flocks
+- Pork Stocks
+- Sheep & Wool Flocks
+- Goat Herds
+- Fish Farm Stocks
+- Insect Protein Farms
+- Synthetic Meat Vats
+- Dairy Production Units
+- Egg Production Units
+- Honey Bee Colonies
+- Wildlands Livestock
+
+### SPACE COMMODITIES (12)
+- Orbital Fuel Cells
+- Zero-G Alloys
+- Radiation Shielding Plates
+- Life Support Cartridges
+- Orbital Construction Beams
+- Satellite Components
+- Vacuum Sealant Compounds
+- Microgravity Pharmaceuticals
+- Solar Panel Arrays
+- Docking Clamp Assemblies
+- Space Suit Components
+- Thruster Nozzles
+
+### FARMING DROPS (26)
+- Mutant Flora
+- Fungal Spores
+- Rad-Crystal
+- Synth Protein
+- Bio-Toxin Extract
+- Deep Root Fiber
+- Waste Algae
+- Insect Protein
+- Mineral Sediment
+- Biolumen Extract
+- Ferment Sludge
+- Urban Pollen
+- Chiton Shell
+- Synth Mold
+- Bioresin
+- Electric Organ
+- Cave Mushroom
+- Hybrid Seed
+- Synth Venom
+- Petrified Wood
+- Refined Bioresin
+- Chiton Plating
+- Rad-Crystal Lens
+- Bio-Stimulant
+- Luminous Dye
+- Mutant Fiber Weave
+
+### CYBERNETICS & IMPLANTS (41)
+- Neural Processing Chips
+- Optical Sensor Arrays
+- Synthetic Muscle Fiber
+- Cyber Servo Motors
+- Bio-Compatible Titanium
+- Neural Interface Cables
+- Cybernetic Power Cells
+- Nano-Surgical Tools
+- Implant-Grade Polymers
+- Dermal Armor Weave
+- Reflex Enhancer Chips
+- Memory Core Modules
+- Bioelectric Regulators
+- Synthetic Nerve Bundles
+- Micro-Hydraulic Pistons
+- Cyber Joint Assemblies
+- Cortical Processor Units
+- Cyber-Eye Lenses
+- Augment Calibration Kits
+- Nanite Repair Solution
+- Implant Rejection Suppressants
+- Cyber-Limb Frames
+- Weapons-Grade Servos
+- Stealth Coating Compound
+- Bio-Neural Gel
+- Quantum Co-Processor
+- Reactive Armor Tiles
+- Monowire Filament
+- Cyber-Grade Coolant
+- Black Market Implant Parts
+- Neural Link Interface
+- Cybernetic Eye Module
+- Dermal Armor Plating
+- Combat Stimulant Injectors
+- Exoskeleton Frame
+- Cyber-Prosthetic Limb
+- Neural Feedback Dampeners
+- Targeting HUD Systems
+- Cybernetic Spine Unit
+- AI Co-Pilot Module
+- Nano-Repair Swarm
+
+### MILITARY SUPPLIES (36)
+- Rifle Assemblies
+- Sidearm Kits
+- Sniper Components
+- Shotgun Barrels
+- Grenade Casings
+- Smoke Canisters
+- Flashbang Units
+- Tear Gas Rounds
+- Stun Batons
+- Riot Shields
+- Tactical Vests
+- Night Vision Goggles
+- Thermal Scopes
+- Laser Sights
+- Ballistic Plates
+- Detonator Caps
+- Demolition Charges
+- Signal Flares
+- Field Radios
+- Combat Rations Pack
+- Field Medical Kits
+- Camouflage Netting
+- Barbed Wire Rolls
+- Sandbag Pallets
+- Portable Barriers
+- Claymore Mines
+- Tripwire Alarms
+- Breaching Charges
+- Rappelling Gear
+- Ghillie Suits
+- Ammunition Crate
+- Vehicle Armor Kit
+- Clone Soldier Barracks
+- Genetic Weapons Laboratory
+- Genetic Defense Center
+- Clone Military Academy
+
+### TEXTILES & FABRICS (20)
+- Raw Wool
+- Spun Yarn
+- Woven Fabric
+- Dyed Fabric
+- Kevlar Fiber
+- Nomex Fire-Resistant Sheets
+- Carbon Thread
+- Nanoweave Cloth
+- Ballistic Fabric
+- Insulating Felt
+- Waterproof Canvas
+- Silk Bolts
+- Recycled Fiber
+- Mesh Netting
+- Elastic Bands
+- Thread Spools
+- Leather Hides
+- Tanned Leather
+- Upholstery Fabric
+- Industrial Webbing
+
+### WEAPONRY & ORDNANCE (30)
+- Lawgiver Frames
+- Daystick Shafts
+- Scattergun Parts
+- Stun Pistol Cells
+- Hi-Ex Rounds
+- Armor-Piercing Tips
+- Incendiary Charges
+- Hotshot Laser Packs
+- Gas Grenade Loads
+- Stumm Gas Cartridges
+- Concussion Shells
+- Frag Grenade Casings
+- Micro-Missile Pods
+- Railgun Slugs
+- Plasma Cutter Heads
+- Energy Weapon Cores
+- Sonic Disruptor Units
+- EMP Grenade Casings
+- Melta Fuel Cells
+- Suppressor Modules
+- Weapon Optics
+- Trigger Mechanisms
+- Barrel Blanks
+- Magazine Springs
+- Weapon Lubricant
+- Bayonet Blades
+- Recoil Dampeners
+- Bore Cleaning Kits
+- Weapon Crates
+- Holster Assemblies
+
+### VEHICLES & PARTS (25)
+- Engine Blocks
+- Transmission Units
+- Axle Assemblies
+- Wheel & Tire Sets
+- Brake Systems
+- Suspension Kits
+- Exhaust Systems
+- Vehicle Electronics
+- Windshield Panels
+- Vehicle Seats
+- Fuel Tanks
+- Radiator Units
+- Turbocharger Kits
+- Anti-Grav Pods
+- Hover Propulsion Units
+- Vehicle Armor Plating
+- Turret Mounts
+- Patrol Bike Frames
+- APC Hull Sections
+- Gunship Fuselage Parts
+- Rotor Assemblies
+- Drone Propeller Sets
+- Nav Computer Modules
+- Ejection Seat Units
+- Flight Control Systems
+
+### WASTELAND SALVAGE (23)
+- Radioactive Waste
+- Toxic Sludge
+- Mutant Hides
+- Deadlands Soil
+- Petrified Bone
+- Irradiated Water
+- Scorch Dust
+- Wasteland Fungus
+- Feral Creature Parts
+- Storm Debris
+- Rad-Blooms
+- Salvaged Tech Scraps
+- Contaminated Metal
+- Fossil Amber
+- Rad-Resistant Seeds
+- Purified Rad-Crystal
+- Wasteland Leather
+- Desert Salt Flats
+- Ancient Circuit Relics
+- Mutant Venom Glands
+- Wildlands Hides
+- Exotic Pelts
+- Ivory Tusks
+
+### LUXURY GOODS (20)
+- Synthetic Gemstones
+- Crystal Art Pieces
+- Holo-Artwork
+- Vintage Wines
+- Aged Spirits
+- Exotic Perfumes
+- Custom Furniture
+- Rare Antiques
+- Designer Augments
+- Luxury Food Hampers
+- Ornamental Metals
+- Bespoke Clothing
+- Rare Data Crystals
+- Premium Stim Packs
+- Holographic Jewelry
+- Artisan Chocolates
+- Imported Coffee
+- Rare Teas
+- Musical Instruments
+- Collector Memorabilia
+
+### DATA & MEDIA (20)
+- Data Slates
+- Holo-Discs
+- Encrypted Data Cores
+- Propaganda Broadcasts
+- Surveillance Footage Archives
+- Research Data Packs
+- Mapping Cartridges
+- Intelligence Reports
+- Training Simulations
+- Entertainment Media
+- Classified Files
+- Biometric Databases
+- Criminal Records Archives
+- Weather Data Logs
+- Industrial Blueprints
+- AI Training Datasets
+- Neural Pattern Backups
+- Genetic Sequence Data
+- Tactical Overlays
+- Citywide Sensor Logs
+
+### BIOTECH & GENETICS (36)
+- Stem Cell Cultures
+- Gene Therapy Vials
+- Cloning Substrate
+- Bio-Scaffold Sheets
+- Growth Hormone Vials
+- Tissue Culture Media
+- Enzyme Concentrates
+- Bio-Reactor Catalysts
+- Prion Neutralizer
+- Biofilm Cultures
+- Gene Splicing Kits
+- Synthetic Blood
+- Nerve Growth Factor
+- Lab-Grown Skin
+- Bone Growth Matrix
+- Bio-Adhesive
+- Viral Vectors
+- Plasmid Libraries
+- Cryo-Preservation Fluid
+- Mutagenic Compounds
+- Anti-Mutagenic Serum
+- Rad-Filter Organisms
+- Bio-Luminescent Reagent
+- Protein Folding Templates
+- Microbiome Capsules
+- Organoid Cultures
+- Bio-Ink Cartridges
+- Telomere Extension Vials
+- Synthetic Platelets
+- Immune Booster Sera
+- Neural Stem Cells
+- Bio-Scaffold Mesh
+- Genome Mapping Kits
+- Synthetic Collagen
+- Alpha Pheromones
+- Gene Vault Samples
+
+### DNA SUPPLIES (20)
+- Nucleotide Reagents
+- Restriction Enzyme Kits
+- PCR Primer Sets
+- Sequencing Reagents
+- Plasmid Vectors
+- CRISPR Guide RNA
+- Cas9 Protein
+- DNA Ligase
+- Agarose Gel Medium
+- Ethidium Bromide
+- Synthetic DNA Strands
+- DNA Extraction Kits
+- Viral Vector Preparations
+- Gene Synthesis Chips
+- Epigenetic Marker Kits
+- Telomere Assay Kits
+- DNA Storage Media
+- RNA Processing Reagents
+- Base Editing Enzymes
+- XNA Polymers
+
+### GENETIC EQUIPMENT (20)
+- PCR Thermocyclers
+- Gene Sequencers
+- Electrophoresis Units
+- Microinjection Rigs
+- CRISPR Workstations
+- Laboratory Centrifuges
+- Biological Incubators
+- Flow Cytometers
+- Genetic Microscopes
+- 3D Bioprinters
+- Bioreactor Units
+- Gene Guns
+- Cryopreservation Units
+- Spectrophotometers
+- Autoclave Sterilizers
+- Clean Room Modules
+- DNA Synthesizers
+- Genome Analyzers
+- Neural Imprint Machines
+- Consciousness Scanners
+
+### CLONING MATERIALS (20)
+- Growth Medium
+- Growth Hormones
+- Stem Cell Cultures
+- Artificial Amniotic Fluid
+- Clone Nutrient Packs
+- Maturation Accelerants
+- Clone Stabilizers
+- Telomere Supplements
+- Gestation Pod Units
+- Conditioning Serum
+- Tissue Scaffolds
+- Bioink Cartridges
+- Collagen Matrix
+- Clone Blood Substitute
+- Neural Growth Factor
+- Bone Growth Compound
+- Muscle Fiber Catalyst
+- Skin Culture Medium
+- Organ Preservation Fluid
+- Memory Encoding Substrate
+
+### BIO PRODUCTS (20)
+- Cloned Organs
+- Synthetic Blood
+- Cloned Skin Grafts
+- Lab-Grown Meat
+- GM Produce
+- Bioluminescent Organisms
+- Clone Labor Contracts
+- Cloned Pets
+- Designer Organisms
+- Consumer Genetic Test Kits
+- Bio-Fuel Algae
+- Enhanced Livestock Units
+- Living Building Material
+- Bio-Plastics
+- Genetic Cosmetics
+- Anti-Aging Serum
+- Clone Bone Marrow
+- Engineered Pheromones
+- Bio-Concrete
+- Gene Therapy Treatment Vectors
+
+### GENETIC MEDICINE (20)
+- Gene Correction Drugs
+- DNA Repair Supplements
+- DNA Vaccines
+- Epigenetic Modulators
+- Telomere Therapy Injections
+- Gene Silencing Drugs
+- Clone Rejection Prevention
+- Genetic Pain Blockers
+- Genetic Fertility Drugs
+- Anti-Mutation Compounds
+- Cognitive Gene Boosters
+- Muscle Gene Activators
+- Immune Gene Enhancers
+- Aging Reversal Pills
+- Clone Health Supplements
+- Genetic Antidepressants
+- DNA Damage Detection Tests
+- Prion Disease Treatment
+- Radiation Gene Protector
+- Genetic Allergy Cure
+
+### CLONE GOODS (20)
+- Clone Uniforms
+- Clone Rations
+- Clone Tracking Chips
+- Clone ID Tags
+- Clone Barracks Bedding
+- Compliance Collars
+- Clone Medical Kits
+- Memory Upload Drives
+- Clone Combat Gear
+- Genetic Passports
+- Clone Skill Modules
+- Bio-Disposal Bags
+- Clone Growth Monitors
+- Decommissioning Kits
+- Clone Entertainment Packs
+- Genetic Loyalty Test Kits
+- Clone Vitamin Supplements
+- Consciousness Backup Drives
+- Clone Worker Tool Sets
+- Identity Suppression Drugs
+
+### RESEARCH MATERIALS (20)
+- Laboratory Animals
+- Cell Line Libraries
+- Genome Database Licenses
+- Bioinformatics Software
+- Ancient DNA Samples
+- Reference Genome Sets
+- Protein Crystal Samples
+- Genetic Research Texts
+- Mutation Libraries
+- Transgenic Seed Stock
+- Antibody Panels
+- Recombinant Proteins
+- Gene Expression Arrays
+- Bioethics Compliance Documents
+- Containment Protocol Kits
+- Genetic Simulation Software
+- DNA Fingerprint Kits
+- Chromosome Staining Kits
+- Metabolite Assay Kits
+- Genetic Patent Licenses
+
+### BIO WEAPONS (20)
+- Gene-Targeted Toxins
+- Weaponized Pathogen Cultures
+- Prion Weapons
+- Gene Drive Dispersal Devices
+- Biological Suppressant Agents
+- Genetic Tracker Organisms
+- Clone Kill Switch Devices
+- Anti-Crop Genetic Agents
+- Genetic Neural Disruptors
+- Bio-Armor Cultures
+- Genetic Camouflage Systems
+- Healing Factor Serum
+- Berserker Gene Compounds
+- Bio-Sensor Swarm Units
+- Genetic Interrogation Drugs
+- Clone Command Implants
+- Biological Mine Spores
+- Genetic Weapon Antidotes
+- Accelerated Decay Agents
+- Bio-EMP Organisms
+
+### XENOBIOLOGY (10)
+- Mutant Spores
+- Biofilter Media
+- Xenofauna Pelts
+- Rad-Resistant Seeds
+- Bioluminescent Gel
+- Decontamination Enzymes
+- Toxic Pollen Extract
+- Mycorrhizal Network Nodes
+- Synthetic Ecosystem Kits
+- Genetic Archive Discs
+
+### UPLIFT GOODS (5)
+- Neural Uplift Chips
+- Cognitive Enhancement Serum
+- Interspecies Translators
+- Uplift Habitat Modules
+- Adaptive Toolkits
+
+### dna (57)
+- DNA Extraction Basics
+- Nucleotide Sequencing
+- PCR Amplification
+- Gel Electrophoresis
+- Restriction Enzyme Library
+- DNA Storage Protocols
+- Biobank Establishment
+- Forensic Genomics
+- Mitochondrial DNA Analysis
+- Plasmid Vector Engineering
+- Whole Genome Sequencing
+- Epigenetic Mapping
+- CRISPR Fundamentals
+- DNA Methylation Analysis
+- Telomere Research
+- Ancient DNA Recovery
+- Synthetic Nucleotide Production
+- Gene Expression Profiling
+- Citywide DNA Fingerprint Database
+- Mutagenesis Protocols
+- Gene Drive Technology
+- Synthetic Genome Assembly
+- DNA Nanotechnology
+- Chromatin Remodeling
+- Telomere Extension Therapy
+- DNA Data Storage
+- Gene Silencing (RNAi)
+- Transposon Engineering
+- DNA Origami Structures
+- Gene Therapy Basics
+- Xenonucleic Acid (XNA) Synthesis
+- Artificial Chromosome Engineering
+- DNA Computing Systems
+- Immortality Genetics Research
+- DNA-Targeted Weapon Detection
+- Prion Engineering
+- Full Epigenetic Reprogramming
+- Biohazard Containment Protocols
+- The Omega Genome Project
+- DNA Resurrection Protocol
+- Living Architecture
+- Genetic Singularity
+- Viral Vector Therapy
+- Base Editing Technology
+- Prime Editing
+- Multiplex Genome Editing
+- DNA Vaccine Platform
+- Proteomics Research
+- Metabolomics Analysis
+- Genetic Toxicology
+- Nutrigenomics
+- Metagenomics
+- Gene Bank Security Systems
+- DNA Repair Mechanisms
+- Cellular Reprogramming
+- Bioinformatics Platform
+- DNA Authentication Systems
+
+### genetics (65)
+- Mendelian Genetics Review
+- Population Genetics
+- Genetic Screening Programs
+- Carrier Testing Infrastructure
+- Genetic Counseling Services
+- Pedigree Analysis Systems
+- Advanced Karyotyping
+- Pharmacogenomics Basics
+- Genetic Marker Identification
+- Gene Mapping
+- Crop Genetic Modification
+- Livestock Genetic Enhancement
+- Genetic Disease Eradication
+- Personalized Genomic Medicine
+- Genetic Enhancement Ethics Board
+- Trait Selection Protocols
+- Genetic Diversity Preservation
+- Transgenic Organism Creation
+- Genetic Patent Law
+- Bioluminescent Engineering
+- Human Enhancement Program
+- Genetic Caste Classification
+- Chimera Research
+- Military Gene Splicing
+- Genetic Loyalty Markers
+- Bioweapon Defense Systems
+- Companion Animal Genetics
+- De-Extinction Genetics
+- Mutation Stabilization
+- Genetic Agriculture Revolution
+- Synthetic Biology
+- Genetic Memory Encoding
+- Bio-Architect Program
+- Genetic Weapon Development
+- Genetic Compliance Programming
+- Apex Organism Design
+- Genetic Immortality Sequence
+- Neogenesis — New Life Creation
+- Post-Human Genetics
+- Total Biosphere Control
+- Genetic Ascension
+- Genetic Computing
+- Phenotype Prediction AI
+- Genetic Archaeology
+- Bioreactor Optimization
+- Pathogen Resistance Engineering
+- Genetic Surveillance Network
+- Designer Pathogen Defense
+- Genetic Terraforming
+- Neural Genetics
+- Genetic Art & Expression
+- Comparative Genomics
+- Quantitative Genetics
+- Gene Patent Enforcement
+- Gene Regulatory Networks
+- Crop Pathogen Resistance
+- Genetic Record Keeping
+- Genetic Insurance Programs
+- Genetic Weapons Ban Treaty
+- Genetic Black Market Intel
+- Designer Drug Genetics
+- Genetic Espionage Countermeasures
+- Artificial Ecosystem Engineering
+- Gene Drive Pest Control
+- Genetic Heritage Preservation
+
+### cloning (67)
+- Somatic Cell Nuclear Transfer
+- Embryo Splitting
+- Cell Culture Techniques
+- Stem Cell Basics
+- Tissue Engineering
+- Advanced IVF Protocols
+- Cloning Ethics Board
+- Growth Medium Synthesis
+- Microinjection Systems
+- Cloning Facility Design
+- Animal Cloning
+- Pet Cloning Services
+- Crop Cloning & Propagation
+- Organ Tissue Cloning
+- Accelerated Growth Hormones
+- Clone Quality Control
+- Livestock Cloning Farms
+- Therapeutic Cloning
+- Artificial Surrogate Gestation
+- Clone Identification Systems
+- Human Cloning Research
+- Clone Workforce Program
+- Clone Soldier Program
+- Memory Imprinting
+- Organ Harvest Farms
+- Deceased Recreation Protocol
+- Clone Rights Legislation
+- Blacksite Cloning Operations
+- Clone Disposal Protocols
+- The Flesh Market
+- Mass Clone Production Lines
+- Clone Specialization Programs
+- Human Tissue Processing
+- Consciousness Transfer
+- Clone Rebellion Prevention
+- Human-Animal Splicing
+- Clone Army Divisions
+- Blacksite Network Expansion
+- The Perfect Copy
+- Clone Civilization
+- Resurrection Industry
+- Biological Supremacy
+- Rapid Maturation Tanks
+- Genetic Template Library
+- Clone Conditioning Programs
+- Bio-Disposal Systems
+- Clone Medical Testing
+- Identity Crisis Management
+- Clone Integration Program
+- Immortal Clone Bodies
+- Clone Hive Mind Network
+- Replacement Citizens Program
+- Clone Aging Research
+- Bioethics Tribunal
+- Organoid Development
+- 3D Bioprinting
+- Synthetic Meat Production
+- Clone Labor Laws
+- Biomass Recycling Systems
+- Neural Clone Interface
+- Clone Spiritual Movement
+- Clone Education System
+- Clone Voting Rights Debate
+- Clone Production Facility
+- Accelerated Growth Chamber
+- Embryo Storage Facility
+- Neural Imprinting Center
+
+### lawEnforcement (7)
+- Mandatory DNA Registration
+- Clone Registration Act
+- Genetic Caste Enforcement
+- Clone Curfew Hours
+- Black Market Genetics Crackdown
+- Visible Clone Identification
+- Genetic Age Verification
+
+### healthSocial (11)
+- Mandatory Prenatal Genetic Screening
+- Genetic Enhancement Subsidies
+- Universal Organ Cloning
+- Pet Cloning Regulations
+- Biosafety Protocols
+- Clone Education Mandate
+- Mandatory Genetic Fitness Reports
+- Clone Healthcare Access
+- Research Animal Ethics Code
+- Clone Disposal Regulations
+- Universal Gene Therapy Access
+
+### economic (12)
+- Clone Labor Authorization
+- Clone Organ Harvesting Mandate
+- Genetic Food Safety Standards
+- Genetic Research Mega-Fund
+- Genetic Tourism Program
+- Genetic Modification Tax
+- Clone Tissue Food Authorization
+- Clone Labor Union Ban
+- Open Source Genetics Initiative
+- Clone Retirement Fund
+- Genetic Infrastructure Fund
+- Clone Marketplace
+
+### civilRights (19)
+- Genetic Anti-Discrimination Act
+- Designer Baby Regulations
+- Human Cloning Moratorium
+- Genetic Purity Standards
+- Basic Clone Rights Act
+- DNA Privacy Protection Act
+- Clone Population Cap
+- Deceased Cloning Rights
+- Human Tissue Consumption Ban
+- Clone Family Formation Rights
+- Human-Animal Splicing Ban
+- Clone Dignity Act
+- Clone Birth Certificates
+- Genetic Data Sovereignty
+- Genetic Discrimination
+- Clone Abandonment
+- Genetic Harassment
+- Genetic Privacy Violation
+- Genetic Supremacist Activity
+
+### emergency (4)
+- Clone Military Service Act
+- Blacksite Research Authorization
+- Genetic Draft
+- Bioterrorism Prevention Act
+
+### cultural (3)
+- Genetic Worship Ban
+- Genetic Heritage Protection
+- Genetic Sports Regulations
+
+### genetic (26)
+- Unlicensed Cloning
+- DNA Identity Theft
+- Illegal Gene Editing
+- Clone Trafficking
+- Bioweapon Manufacture
+- Illegal Human-Animal Splicing
+- Unauthorized Resurrection
+- Genetic Sabotage
+- Operating an Unregistered Clone
+- Genetic Espionage
+- DNA Evidence Tampering
+- Genetic Malpractice
+- Black Market Gene Therapy
+- Genetic Terrorism
+- Unauthorized Gene Drive Release
+- Back-Alley CRISPR Clinic
+- Embryo Theft
+- Genetic Stalking
+- Decommissioning Evasion
+- Unauthorized Blacksite Operation
+- Clone Military Desertion
+- Deliberate DNA Contamination
+- Illegal Pet Cloning
+- Unauthorized De-Extinction
+- Genetic Conspiracy
+- Prion Weapon Possession
+
+### blackMarket (5)
+- Cloned Organ Trafficking
+- Clone Smuggling
+- Human Tissue Food Distribution
+- Clone Exploitation Ring
+- Counterfeit Genetic Products
+
+### financial (11)
+- Genetic Fraud
+- Clone Identity Fraud
+- Genetic Blackmail
+- Clone Labor Exploitation
+- Clone Impersonation
+- Genetic Paternity Fraud
+- Endangered Species Cloning Fraud
+- Clone Document Forgery
+- Genetic Insurance Fraud
+- Clone Sweatshop
+- Genetic Racketeering
+
+### violent (7)
+- Clone Abuse
+- Clone Fighting Ring
+- Clone Body Dumping
+- Clone Organ Theft
+- Genetic Child Modification
+- Clone Kidnapping
+- Clone Gladiator Events
+
+### narcotics (1)
+- Genetic Designer Drugs
+
+### cybernetic (3)
+- Genetic Database Hacking
+- Consciousness Theft
+- Clone Memory Extraction
+
+### property (2)
+- Genetic Vandalism
+- Biological Waste Dumping
+
+### research (14)
+- DNA Sequencing Laboratory
+- Genetic Biobank
+- CRISPR Research Center
+- Synthetic Biology Lab
+- Stem Cell Research Center
+- DNA Data Center
+- Gene Bank Vault
+- Artificial Chromosome Factory
+- De-Extinction Center
+- Genetic Archives
+- Xenobiology Laboratory
+- Genetic Material Recycling
+- Living Architecture Complex
+- Epigenetics Research Institute
+
+### medical (7)
+- Gene Therapy Clinic
+- Organ Cloning Laboratory
+- Genetic Counseling Center
+- 3D Bioprinting Facility
+- Consciousness Transfer Station
+- Gene Therapy Hospital
+- Clone Therapy Center
+
+### social (10)
+- Clone Housing Complex
+- Pet Cloning Clinic
+- Genetic Enhancement Spa
+- Clone Education Center
+- Clone Recreation Center
+- Bioluminescent Garden
+- Clone Accelerated Daycare
+- Gene Casino
+- DNA Museum & Education Center
+- Resurrection Chapel
+
+### civic (6)
+- Bioethics Tribunal
+- Clone Registration Office
+- Clone Memorial
+- Genetic Patent Office
+- Genetic Court
+- Clone Rights Advocacy Center
+
+### enforcement (7)
+- Genetic Forensics Lab
+- Clone Conditioning Center
+- Biohazard Containment Facility
+- Genetic Surveillance Center
+- Clone Decommissioning Center
+- Chimera Containment Zone
+- Genetic Waste Treatment
+
+### agriculture (6)
+- GM Crop Greenhouse
+- Livestock Genetics Farm
+- Synthetic Meat Processing Plant
+- Biomass Recycling Plant
+- Bioreactor Farm
+- Bio-Tissue Processing Plant
+
+### blacksite (1)
+- Blacksite Research Lab
+
+---
+**Total tradeable commodities: 1347**  •  **Core resources: 9**  •  **Grand total: 1356**

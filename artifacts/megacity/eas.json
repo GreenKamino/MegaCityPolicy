@@ -1,0 +1,39 @@
+{
+  "cli": {
+    "version": ">= 14.0.0",
+    "appVersionSource": "local",
+    "requireCommit": false
+  },
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal",
+      "android": {
+        "buildType": "apk"
+      }
+    },
+    "preview": {
+      "distribution": "internal",
+      "android": {
+        "buildType": "apk"
+      },
+      "node": "20.18.0",
+      "pnpm": "10.26.1"
+    },
+    "production": {
+      "android": {
+        "buildType": "app-bundle"
+      },
+      "node": "20.18.0",
+      "pnpm": "10.26.1"
+    }
+  },
+  "submit": {
+    "production": {
+      "android": {
+        "serviceAccountKeyPath": "./google-services.json",
+        "track": "internal"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+node_modules/
+.expo/
+dist/
+web-build/
+*.log
+.git/
+__tests__/
+coverage/
+*.md
+.local/
+artifacts/api-server/
+artifacts/megacity-trailer/
+artifacts/mockup-sandbox/
