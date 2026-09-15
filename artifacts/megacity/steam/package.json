@@ -1,0 +1,99 @@
+{
+  "name": "megacity-sector-marshal",
+  "productName": "MEGACITY",
+  "version": "2.11.3",
+  "description": "A dystopian mega-city management simulator",
+  "main": "main.js",
+  "author": "GreenKamino",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "start": "electron .",
+    "start:dev": "NODE_ENV=development electron .",
+    "build:win": "electron-builder --win",
+    "build:mac": "electron-builder --mac",
+    "build:linux": "electron-builder --linux",
+    "build:all": "electron-builder --win --mac --linux",
+    "export:achievements": "node export-achievements.js",
+    "export:stats": "node export-stats.js"
+  },
+  "dependencies": {
+    "steamworks.js": "^0.3.1"
+  },
+  "devDependencies": {
+    "electron": "^39.0.0",
+    "electron-builder": "^25.0.0"
+  },
+  "overrides": {
+    "tar": "^7.5.7",
+    "@tootallnate/once": "^3.0.1"
+  },
+  "build": {
+    "appId": "com.greenkamino.megacity",
+    "productName": "MEGACITY",
+    "executableName": "game",
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "main.js",
+      "preload.js",
+      "closeGuard.js",
+      "releaseIntegrity.js",
+      "web-build/**/*",
+      "release-manifest.json",
+      "icon.png",
+      "steam_appid.txt"
+    ],
+    "win": {
+      "target": [
+        {
+          "target": "nsis",
+          "arch": ["x64"]
+        }
+      ],
+      "icon": "icon.png"
+    },
+    "mac": {
+      "target": [
+        {
+          "target": "dmg",
+          "arch": ["x64", "arm64"]
+        }
+      ],
+      "icon": "icon.png",
+      "category": "public.app-category.strategy-games"
+    },
+    "linux": {
+      "target": [
+        {
+          "target": "AppImage",
+          "arch": ["x64"]
+        }
+      ],
+      "category": "Game"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "installerIcon": "icon.png"
+    },
+    "extraFiles": [
+      {
+        "from": "sdk/redistributable_bin/win64/steam_api64.dll",
+        "to": "steam_api64.dll"
+      },
+      {
+        "from": "sdk/redistributable_bin/linux64/libsteam_api.so",
+        "to": "libsteam_api.so"
+      },
+      {
+        "from": "sdk/redistributable_bin/osx/libsteam_api.dylib",
+        "to": "libsteam_api.dylib"
+      }
+    ],
+    "asarUnpack": [
+      "node_modules/steamworks.js/**"
+    ]
+  }
+}

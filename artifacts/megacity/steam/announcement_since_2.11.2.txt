@@ -1,0 +1,58 @@
+[h1]MEGACITY: Sector Marshal — What’s Changed Since 2.11.2[/h1]
+
+The city has had a busy few weeks. Since [b]Room to Build[/b], MEGACITY has expanded its military command, deepened its factions and institutions, made the economy easier to audit, and added more consequences to the people living inside the numbers.
+
+[h2]A More Dangerous Military[/h2]
+
+[list]
+[*]Build squads around distinct battlefield roles and filter recruitment by the role you actually need.
+[*]Preview squad composition, synergy, defense, and recovery before committing troops.
+[*]Choose [b]Balanced, Assault, Defensive,[/b] or [b]Recon[/b] doctrines. Doctrine now changes mission speed, power, and casualty risk instead of being a label with no bite.
+[*]Captains have relationships and succession. A captain’s death no longer automatically destroys the formation; a deputy can keep the squad operational.
+[*]Deployments, training orders, casualties, and squad leadership survive save and Steam Cloud reloads.
+[*]Military food, rations, ammunition, fuel, and other logistics are shown as their own operational pools, with clearer readiness explanations when a supply is short.
+[/list]
+
+[h2]People Are More Than Population[/h2]
+
+Citizens and soldiers can now be wounded, sick, missing, or killed, with medical supplies, recovery, and cause-of-death accounting making those consequences visible. Medical storage has upgradeable capacity, and capped rewards now tell you when the city could not accept more.
+
+Officers, captains, rival leaders, and civic figures can be influenced through personal interactions. Relationships, temporary boosts, cooldowns, and consequences persist instead of disappearing when the screen closes.
+
+[h2]Factions, Institutions, and the Working City[/h2]
+
+[list]
+[*]Administrative institutions and the Administrative Bloc add new internal pressure to the city’s politics.
+[*]Factions can make demands, and responses now feed back into the wider simulation.
+[*]The Rust Wardens have a real engineering workforce ledger tied to infrastructure and production.
+[*]Population pressure, staffing, worker-scaled output, and supply-versus-stockpile demand now make the economy easier to read and harder to fake.
+[*]Commercial licenses show their payout in the Economy ledger, on the license card, and in an inbox receipt.
+[/list]
+
+[h2]More Ways to Govern the Crisis[/h2]
+
+Law enforcement operations now have visible outcomes before the dispatch arrives. The black market has real purchase effects and a durable audit history. Contracts show delivery, shortage, recovery, and scrap details instead of silently draining the treasury. Repeat crises point toward lasting fixes, with direct navigation to the relevant building or edict.
+
+The command layout has also grown: a fuller top navigation bar, a command menu, global research search, clearer recovery guidance, and responsive overview cards make it easier to find the action behind a bad number.
+
+[h2]The World Keeps Moving[/h2]
+
+The Wasteland Atlas and Wildlands systems now include deeper discovery, wildlife, settlements, ecological recovery, and rare species. Wars have clearer pacing and preserved timelines, controlled cities read as pacified, and neglected conquered cities can eventually overthrow your administration and return as hostile powers.
+
+[h2]Quality-of-Life and Reliability[/h2]
+
+[list]
+[*]The main menu gets to the controls faster, even with large or complex saves.
+[*]Steam Cloud protects save conflicts and preserves more in-flight military and relationship state.
+[*]Destructive actions ask for confirmation, and successful actions show what changed and what they cost.
+[*]Production cards, navigation, world-map overlays, and accessibility layouts behave better across desktop, mobile, large text, and Steam Deck-sized screens.
+[*]Desktop players can open the MEGACITY Screenshots folder directly from Display Settings.
+[/list]
+
+[h2]Save Compatibility[/h2]
+
+Existing saves remain compatible and migrate forward automatically. The city is deeper, the reports are clearer, and the paperwork is still not optional.
+
+---
+
+[i]You wanted a larger command structure. You got one with casualty reports.[/i]

@@ -1,0 +1,49 @@
+MEGACITY: Sector Marshal — Update 2.9.0: Two Ways to Run the City
+
+Version: 2.9.0
+Build: 20
+Released: 2026-07-07
+Save compatibility: Existing saves load as-is — nothing needs resetting.
+
+MEGACITY now has two game modes. Rule in real time, or take it one turn at a time. The city falls apart either way — you just get to choose the tempo.
+
+---
+
+THE HEADLINE: TWO GAME MODES
+
+When you found a new city, you now choose how you want to play it:
+
+- REAL-TIME — the classic mode. The city lives and breathes on its own clock. Crises land when they land, and the simulation keeps moving whether you are ready or not.
+- TURN-BASED — the new mode. Nothing moves until you press END TURN. Read every report, weigh every decision, take all the time you want. The city waits for you. It resents it, but it waits.
+
+Turn-based mode is built to play fair:
+
+- Crises interrupt your turn cleanly. If an emergency erupts mid-turn, the day pauses while you deal with it — and once handled, the rest of the day resumes exactly where it left off instead of starting over.
+- No first-turn ambushes. A brand-new turn-based city cannot be hit by a crisis on its very first turn. You get a moment to breathe before the sector notices you exist.
+- Dismissing a crisis buys real breathing room. A dismissed crisis no longer storms right back on the next turn, and dismissed officer alerts stop nagging immediately too. If the underlying problem is still there, it will return — and the game now tells you so when you dismiss a critical warning.
+
+ALSO NEW
+
+- Pick your standing start style. Settings now lets you choose Guided or Veteran as your default for new cities. And starting one city differently no longer silently overwrites that preference — a one-off pick stays a one-off unless you tick "make this my new default".
+- More problem cards that name the fix. Defense and infrastructure join the diagnose-and-one-tap-fix card family from 2.8.0.
+- Light mode, larger text, high contrast. Every screen now follows your chosen theme, and new readability options make the fine print of bureaucratic collapse easier on the eyes.
+- Copy responses. You can now copy response text straight out of the game.
+
+CHANGED
+
+- Returning crises admit they are returning. A crisis you already cleared that flares up again is now badged STILL UNRESOLVED, and the news ticker and daily log announce it as a known crisis resurfacing instead of pretending it is a brand-new emergency.
+- No more loyalty farming. Personal actions now have a per-person cooldown, so you cannot repeat the same interaction on the same officer over and over to grind their loyalty. Charm responsibly.
+
+FIXED
+
+- Desktop polish. Fixed side-scrolling, long-session flicker, and ammo visibility on the desktop build.
+- Nothing fails silently. Simulation errors that occur during a turn are now surfaced instead of swallowed.
+
+NOTES
+
+- Your game mode is chosen per city at creation. Existing saves are fully compatible and continue in real-time exactly as before — found a new city to try turn-based.
+- Save export and import now carry data integrity checks, and the desktop build has been further locked down.
+
+---
+
+Press END TURN. Or don't. The paperwork accumulates at the same rate either way.

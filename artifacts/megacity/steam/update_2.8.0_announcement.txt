@@ -1,0 +1,46 @@
+[h1]MEGACITY: Sector Marshal — Update 2.8.0: See the Problem, Tap the Fix[/h1]
+
+[b]Version:[/b] 2.8.0
+[b]Build:[/b] 19
+[b]Released:[/b] 2026-07-06
+[b]Save compatibility:[/b] Existing saves load as-is — nothing needs resetting.
+
+[i]Your city finally tells you what is wrong, how long you have, and where to tap.[/i]
+
+---
+
+[h2]What's new[/h2]
+
+This update is all about making trouble easy to read and easy to solve. When something starts going wrong, the game now tells you what is happening, how bad it is, how long you have, and gives you a one-tap way to fix it.
+
+[list]
+[*][b]Problem cards that name the fix, right on the Overview.[/b] New breakdown cards for your power grid, water supply, crime, and biosphere lay out exactly what is dragging each one down. Every card comes with a one-tap fix that takes you straight to the building or edict that solves it.
+[*][b]One-tap fixes land you in the right place.[/b] Tapping a recovery tip sends you to the exact building or action that addresses the problem, and it always lands somewhere valid instead of a dead end.
+[*][b]Know how long you have.[/b] The power grid tells you how many turns until it goes dark at the current rate, and the biosphere card shows how fast it is recovering or decaying.
+[*][b]Early brownout warning, and an all-clear when you fix it.[/b] You get an inbox alert and a news ticker heads-up the moment the grid is heading for a brownout, even when you are not on the power screen. Restore the grid to surplus and a POWER GRID STABILIZED confirmation lets you know your fix took.
+[*][b]See what each building takes in and puts out.[/b] Production buildings now show their inputs and outputs at a glance, so it is clear what feeds what.
+[/list]
+
+[h2]Changed[/h2]
+
+[list]
+[*][b]An honest power readout.[/b] The power number now accounts for seasons and storms, so what you see is what your grid will actually deliver instead of an optimistic estimate.
+[*][b]Ecological collapse can be turned around.[/b] A collapsed biosphere is no longer a dead end. With the right buildings and edicts, you can pull it back to a survivable level.
+[/list]
+
+[h2]Fixed[/h2]
+
+[list]
+[*][b]Missions stay put.[/b] Missions no longer disappear from your active missions list.
+[/list]
+
+[h2]Notes[/h2]
+
+[list]
+[*]This is a quality-of-life update — the difficulty is unchanged. Run your grid or your biosphere into the ground and it will still bite. You will just see it coming, and know when you are clear.
+[*]Existing saves are fully compatible. The downloadable game manual was also refreshed, including a new Army section.
+[/list]
+
+---
+
+[i]Keep the lights on. Or don't. The vending machine union is watching either way.[/i]

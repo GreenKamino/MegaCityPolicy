@@ -1,0 +1,12 @@
+node_modules/
+dist/
+web-build/
+sdk/
+greenworks/
+output/
+*.dll
+*.so
+*.dylib
+achievements.vdf
+achievements.csv
+stats.vdf

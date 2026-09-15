@@ -1,0 +1,28 @@
+{
+  "appVersion": "2.11.3",
+  "entryBundle": "entry-7fc47de486deae060657d4cc853cf28a.js",
+  "bundleSha256": "d4703fa1b525da6d984c30672a2f0690edf521cadab4d12e830d97a961f1c0ba",
+  "fixtureMarkers": {
+    "crimeRecovery": "crimeRecoveryFixture",
+    "housingBlocker": "housingBlockerFixture",
+    "railModules": "railModulesFixture",
+    "districtCommands": "districtCommandsFixture",
+    "worldMapEventLog": "worldMapEventLogFixture",
+    "storagePlan": "storagePlanFixture"
+  },
+  "windowsRelease": {
+    "runnerLabels": [
+      "self-hosted",
+      "windows",
+      "x64",
+      "steam"
+    ],
+    "executable": "dist/win-unpacked/game.exe",
+    "migrationEvidence": {
+      "workflowArtifact": "packaged-la-city-migration-evidence",
+      "summaryFile": "packaged-la-city-legacy-save-summary.json",
+      "logFile": "packaged-la-city-legacy-save.log"
+    }
+  },
+  "generatedAt": "2026-09-15T00:26:58Z"
+}

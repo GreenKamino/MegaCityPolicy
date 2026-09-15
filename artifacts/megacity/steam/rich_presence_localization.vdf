@@ -1,0 +1,12 @@
+"lang"
+{
+	"english"
+	{
+		"tokens"
+		{
+			"#StatusFull"	"Managing %city% — %day%, %population% — %season%"
+			"#StatusCity"	"Managing %city%"
+			"#StatusMenu"	"In Main Menu"
+		}
+	}
+}

@@ -1,0 +1,145 @@
+=== SHORT DESCRIPTION ===
+
+Run a post-collapse megacity where every decree has a cost. Balance industry, survival, politics, war, ecology, and human lives in a darkly funny idle-strategy simulation. Play in real time or one turn at a time. No microtransactions.
+
+
+=== ABOUT THIS GAME (Steam Store Long Description) ===
+
+[h2]The world ended. The paperwork didn't.[/h2]
+
+You are the Sector Marshal of a vast megacity built on top of a dead world. You did not build this city. You inherited it: crumbling infrastructure, humming reactors, hostile factions, crowded districts, and a population that expects you to keep the lights on.
+
+You are part mayor, part warlord, part bureaucrat. The only thing standing between civilization and total urban collapse. You are not paid enough for this.
+
+This is not a city builder. The city already exists. Your job is to stop it from killing itself.
+
+[h2]A CITY THAT FIGHTS BACK[/h2]
+
+MEGACITY is a dystopian idle and strategy management simulation with the depth of a spreadsheet and the soul of a dark comic. Govern through laws, policies, edicts, budgets, research, construction, diplomacy, espionage, military force, and the occasional act of bureaucratic desperation.
+
+The simulation tracks the systems that keep a city alive: food, water, power, industry, trade, housing, employment, health, crime, corruption, morale, unrest, infrastructure, weather, radiation, and the biosphere. Every improvement creates new pressures. Every shortcut leaves a bill for someone else.
+
+The city does not wait for you to notice it. Problems grow in the background, decisions echo through the districts, and a prosperous balance sheet is not enough if people cannot live there.
+
+[h2]THE PEOPLE BEHIND THE NUMBERS[/h2]
+
+Your citizens are not just a population bar. Crime, accidents, disease, disasters, attacks, harsh weather, radiation, and military operations leave human consequences behind.
+
+Residents can be wounded, sick, or missing. Some recover. Some do not. Deaths are recorded by cause, while injured and missing people remain part of the city's ongoing burden. Progress can reduce the damage, but it cannot make catastrophe harmless.
+
+Your officers, advisors, captains, soldiers, workers, and commanders have their own roles, traits, loyalties, and failures. Competence matters. Loyalty matters more. Corruption festers quietly until it does not.
+
+[h2]FACTIONS, FAITHS, AND POWER[/h2]
+
+Internal factions compete for influence over the city. The Authority wants order. Corporate interests want access. Criminal networks want territory. The Mutant Collective wants rights. The Rust Wardens control critical infrastructure and remember exactly who stopped paying them.
+
+Factions have leaders, demands, loyalties, threats, beliefs, and changing relationships with one another. Negotiate, appease, manipulate, investigate, suppress, or let rivalries turn into open conflict.
+
+Faiths move through the districts and pull at loyalty, crime, corruption, and unrest. Sponsor a faith, tolerate it, suppress it, or remain secular. If one belief takes hold, you can choose to build a leader cult around yourself—gaining influence while inviting schisms, backlash, corruption, and assassins.
+
+[h2]MILITARY COMMAND[/h2]
+
+Build squads from distinct troop classes and combine them into formations with different strengths. Choose deployment doctrines, match troop composition to the mission, and use captains whose traits change how a squad fights, moves, and survives.
+
+Recruitment and construction take time. Missions have real consequences. Casualties are persistent, injured troops need treatment, and a fallen captain does not have to erase an entire formation. Prepare a successor, preserve the squad, and decide what victory is worth.
+
+[h2]THE WASTELAND AND THE BIOSPHERE[/h2]
+
+Beyond the walls lie irradiated deserts, toxic waterways, overgrown ruins, abandoned infrastructure, strange wildlife, settlements, raiders, salvage, and communities that chose life outside the city's control.
+
+Send expeditions into the wastes, establish trade, recover technology, hunt megafauna, discover lost sites, and decide whether the land is a resource, a threat, or something worth restoring.
+
+The wildlands are part of the city's future. Weather, radiation, pollution, ecological damage, conservation, and recovery feed back into public health, food, stability, and prosperity. A golden age requires a city that is livable, not merely rich.
+
+[h2]INDUSTRY, RESEARCH, AND THE LONG BUILD[/h2]
+
+Expand an interlocking industrial economy through research, infrastructure, contracts, supply chains, trade, and construction. Choose what to manufacture, what to import, which systems to upgrade, and which shortages the city can survive.
+
+Buildings and troop programs take time to complete. Training facilities, software upgrades, mega-projects, orbital infrastructure, and civic investment turn the city into a long-term project instead of a sequence of instant purchases.
+
+Research reaches from practical survival systems to advanced statecraft, covert operations, orbital technology, and weapons capable of changing the balance of power. Every new capability opens another responsibility.
+
+[h2]A LIVING NEWS FEED[/h2]
+
+The city reports on itself through a relentless broadcast ticker and a stream of dispatches. War declarations, ceasefires, construction, disasters, ecological shifts, policy changes, faction demands, expeditions, and public scandals become part of the daily record.
+
+Expect dry announcements, impossible headlines, bureaucratic euphemisms, and the occasional story that is funny only because the alternative is screaming.
+
+[h2]STORIES WITH CONSEQUENCES[/h2]
+
+Branching events and multi-stage storylines put people, institutions, factions, and the wider city under pressure. Responses can change resources, relationships, districts, the biosphere, and the future shape of the city.
+
+There are no universally clean solutions. A compassionate answer may weaken the treasury. A ruthless answer may stabilize a district. A clever compromise may create a problem that arrives several turns later.
+
+You can also take on contracts, investigate crime, run covert operations, manage officers, pursue personal interactions, recover lost knowledge, complete civic and wasteland projects, and leave a legacy through the choices that survive you.
+
+[h2]TWO WAYS TO RUN THE CITY[/h2]
+
+Every new city asks one question before the trouble starts: real time or turn based?
+
+[list]
+[*] [b]Real time[/b] — the city lives on its own clock. Ticks pass, crises erupt, and the simulation can continue while you are away. It is the classic idle experience, with a full offline catch-up when you return.
+[*] [b]Turn based[/b] — nothing advances until you end the turn. Read every report, weigh every decree, and take the time to understand the consequences. When a crisis demands attention, the day waits for your response.
+[/list]
+
+The world is harsh in both modes. The pace is yours.
+
+[h2]IDLE FRIENDLY, WITHOUT BEING HANDS OFF[/h2]
+
+Real time mode supports configurable tick pacing, autosave, labeled save slots, backups, and offline simulation. Choose how deeply the city should simulate while you are away, then review what happened when you return.
+
+Steam Cloud keeps saves and commander profiles available across devices. Start at the desktop, continue on a Steam Deck, and return to the same city with its history intact.
+
+You can customize your commander profile and portrait, adjust the interface for your screen, and choose how much information you want to see before making a decision.
+
+[h2]CRAFTED, NOT GENERATED[/h2]
+
+Every event, headline, gang dossier, faction leader, wasteland discovery, and institutional failure is written to give the city a distinct voice. MEGACITY is inspired by deep management games, dark absurdist comics, and the firm belief that strategy games should make you laugh while everything you built catches fire.
+
+No microtransactions. No pay to win. No loot boxes. No battle passes. Just a city that needs running and a Marshal who signed up for this.
+
+[i]The world ended. The paperwork didn't.[/i]
+
+
+=== KEY FEATURES (Steam sidebar) ===
+
+- Dystopian idle and strategy city management
+- Real time or turn based play
+- Govern a living post-collapse megacity
+- Balance economy, infrastructure, crime, health, morale, and survival
+- Human consequences: wounds, sickness, missing people, recovery, and deaths
+- Internal factions, faiths, leader cults, diplomacy, and intrigue
+- Squads with troop composition, doctrines, captains, succession, and persistent casualties
+- Wasteland expeditions, settlements, salvage, wildlife, and ecological recovery
+- Research, construction, contracts, supply chains, and long-term projects
+- Branching events, multi-stage stories, and consequential decisions
+- Espionage, crime investigation, military operations, and officer management
+- Dynamic weather, radiation, disasters, and biosphere pressure
+- Live news ticker and reactive city dispatches
+- Configurable offline simulation and catch-up
+- Steam Cloud sync for saves and commander profiles
+- Single-player and offline friendly
+- No microtransactions or pay to win
+- Solo-developed
+
+
+=== TAGS ===
+
+Strategy, Simulation, Management, Idle, City Builder, Dystopian, Sci-Fi, Dark Humor, Dark Comedy, Post-Apocalyptic, Economy, Political, RPG, Single Player, Offline, Indie, Text-Based, Atmospheric
+
+
+=== SYSTEM REQUIREMENTS ===
+
+MINIMUM:
+- OS: Windows, macOS, or Linux
+- Processor: Modern processor
+- Memory: 4 GB RAM
+- Graphics: GPU with WebGL support
+- Storage: Available disk space
+
+RECOMMENDED:
+- OS: Windows, macOS, or Linux
+- Processor: Modern multi-core processor
+- Memory: 8 GB RAM
+- Graphics: Dedicated GPU
+- Storage: Additional available disk space

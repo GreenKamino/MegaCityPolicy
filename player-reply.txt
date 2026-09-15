@@ -1,0 +1,19 @@
+Hey, thanks for the detailed report — this was a genuinely useful one, and it led to a real update. I dug into all three of the problems you described, and here is what was actually happening under the hood:
+
+PUBLIC HEALTH STUCK AT 1
+Your clinics were working, but they were being outgunned. Health penalties from missing med supplies, food and water shortages, low sanitation, and high disease risk can stack up to -6 per turn, while each clinic only adds +3 toward the recovery thresholds. So the city was losing the tug-of-war every single turn — and the game never showed you any of that.
+
+TRANSIT OVERLOADED AT 240/80
+Transit capacity only comes from specific things — maglev lines, skyrail, freightways, drone corridors, skybridges, and certain units — while load grows with your population and heavier buildings. Nothing you were building happened to add capacity, and again, the game didn't tell you which things would.
+
+EMPLOYMENT FALLING EVERY TURN
+Two causes stacked here: your population was growing faster than your job slots, and — the sneaky one — that transit overload was silently draining employment by 0.5 every turn. That drain existed in the engine with zero visibility. Fair to call that a bug in spirit, even if it was "working as coded."
+
+WHAT'S IN THE GAME NOW (JUST SHIPPED)
+- Three new breakdown cards on the City screen — Public Health, Transit Grid, and Employment. Each one lists every factor pushing the stat up or down with its exact per-turn value, plus suggested fixes that link straight to the right screen.
+- Tapping the Public Health, Disease Risk, or Employment cells in the City Status Matrix jumps you straight to the matching card.
+- A new Transit row in Utility Status shows your load vs capacity at a glance (CLEAR / TIGHT / OVERLOADED) and taps through to the full breakdown.
+- The transit-overload drain is now called out explicitly in both the transit and employment cards, so it can never silently kill a city again.
+- The in-game manual has been updated to cover all of this.
+
+It works in both live and turn-based play. Your two collapsed cities were the test case for this, so thank you — reports like this one are exactly how the game gets better. Let me know if the new cards make the picture clear, or if anything still feels like a mystery.

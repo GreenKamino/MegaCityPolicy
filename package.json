@@ -1,0 +1,29 @@
+{
+  "name": "workspace",
+  "version": "0.0.0",
+  "license": "MIT",
+  "packageManager": "pnpm@10.26.1",
+  "scripts": {
+    "preinstall": "sh -c 'rm -f package-lock.json yarn.lock; case \"$npm_config_user_agent\" in pnpm/*) ;; *) echo \"Use pnpm instead\" >&2; exit 1 ;; esac'",
+    "postinstall": "node scripts/verify-hook.mjs --postinstall",
+    "build": "pnpm run typecheck && pnpm -r --if-present run build",
+    "typecheck:libs": "tsc --build",
+    "typecheck": "pnpm run typecheck:libs && pnpm -r --filter \"./artifacts/**\" --filter \"./scripts\" --if-present run typecheck",
+    "check:archives": "node scripts/check-staged-archives.mjs",
+    "doctor:hooks": "node scripts/verify-hook.mjs",
+    "test:archive-guard": "node --test scripts/__tests__/check-staged-archives.test.mjs",
+    "test:verify-hook": "node --test scripts/__tests__/verify-hook.test.mjs"
+  },
+  "simple-git-hooks": {
+    "pre-commit": "node scripts/check-staged-archives.mjs",
+    "pre-push": "node scripts/check-staged-archives.mjs --pre-push"
+  },
+  "private": true,
+  "devDependencies": {
+    "prettier": "^3.8.1",
+    "puppeteer": "^24.39.1",
+    "sharp": "^0.34.5",
+    "simple-git-hooks": "^2.13.1",
+    "typescript": "~5.9.2"
+  }
+}

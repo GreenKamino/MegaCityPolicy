@@ -1,0 +1,38 @@
+"AppBuild"
+{
+        "AppID" "4633600"
+        "Desc" "MEGACITY: Sector Marshal v2.8.0"
+        "ContentRoot" ""
+        "BuildOutput" "output/"
+        "Depots"
+        {
+                "4633601"
+                {
+                        "FileMapping"
+                        {
+                                "LocalPath" "dist/win-unpacked/*"
+                                "DepotPath" "."
+                                "recursive" "1"
+                        }
+                        "FileExclusion" "*.pdb"
+                }
+                "1613780"
+                {
+                        "FileMapping"
+                        {
+                                "LocalPath" "dist/mac-arm64/*"
+                                "DepotPath" "."
+                                "recursive" "1"
+                        }
+                }
+                "1613781"
+                {
+                        "FileMapping"
+                        {
+                                "LocalPath" "dist/linux-unpacked/*"
+                                "DepotPath" "."
+                                "recursive" "1"
+                        }
+                }
+        }
+}

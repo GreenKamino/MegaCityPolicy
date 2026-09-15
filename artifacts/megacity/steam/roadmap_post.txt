@@ -1,0 +1,54 @@
+MEGACITY — ROADMAP: MOVING FORWARD
+
+Commanders,
+
+MEGACITY has come a long way since launch, and most of that is down to you. With gratitude to every player who has reported bugs, suggested features, and kept their cities running through everything the wasteland throws at them — here is where the game is headed next.
+
+The usual caveat: this is a direction, not a schedule. Items may shift, split, or arrive in a different order, and ongoing bug fixes continue through all of it.
+
+
+THE WORLD MAP
+
+I will be honest: the world map is not where I want it to be. It is getting a full overhaul — a bigger, full-screen map you can zoom much deeper into, with crisp artwork that stays sharp instead of blurring. Alongside that, North America and Canada will be finished, and South America completed as a full continent.
+
+
+THE WIDER WORLD
+
+Beyond the Americas, the world will open up through connections rather than endless map. Discover a node on the East Coast and it may open trade routes to the UK or Europe — new partners, new goods, and new stories arriving from over the horizon.
+
+
+A LIVING WORLD
+
+NPC nations will begin acting on their own: trading with each other, forming alliances, holding grudges, and going to war whether you are involved or not. You will read about it in the news, feel it in your trade prices, and be able to take advantage of it.
+
+
+EVENTS AND STORIES
+
+More multi-stage story events with real branching choices, where your decisions send the story down genuinely different paths. More world events too: brutal weather, disasters, and invasions — and in the mid-to-late game, invasion threats arriving from other continents entirely. News articles are also being fixed so a story only runs when the event actually happened in your city.
+
+
+STEAM ACHIEVEMENTS
+
+The in-game achievements — all 400 and counting — will be properly wired into Steam so they pop on your profile where they belong. Yes, really. I will do it, I promise.
+
+
+SANDBOX AND ROLEPLAY
+
+More policies and edicts, and more ways to interact with the world and the people in it. The RPG side of MEGACITY keeps growing — whatever kind of Commander you want to be, there should be tools for it.
+
+
+CUSTOMIZATION AND SETUP
+
+Improved faction and character editing, better character and setup screens, and player, game, and map editing for those who want to shape their sandbox. General UI improvements continue throughout.
+
+
+ART AND WRITING
+
+MEGACITY currently ships with AI placeholder art, and that has always been declared openly. The plan is to bring on an artist to replace it with original, human-made work, and to replace placeholder text with human writing over time.
+
+
+THANK YOU
+
+Every bug report, every suggestion, every strange screenshot of a city on fire — it all shapes the game. Thank you for playing, and thank you for your patience while I work through this list. The city endures, and so do we.
+
+— Lauren

@@ -1,0 +1,28 @@
+"AppBuild"
+{
+        "AppID" "4633600"
+        "Desc" "MEGACITY: Sector Marshal v2.8.0 (Windows)"
+
+        // ContentRoot is resolved relative to the directory steamcmd is run from.
+        // Run steamcmd from this `steam/` folder (or pass an absolute path here)
+        // so that "dist/win-unpacked/*" below resolves correctly.
+        "ContentRoot" "."
+        "BuildOutput" "output/"
+
+        "Depots"
+        {
+                // Windows content depot. We upload the *unpacked* Electron app
+                // (dist/win-unpacked/*), NOT the NSIS installer — Steam handles
+                // installation itself.
+                "4633601"
+                {
+                        "FileMapping"
+                        {
+                                "LocalPath" "dist/win-unpacked/*"
+                                "DepotPath" "."
+                                "recursive" "1"
+                        }
+                        "FileExclusion" "*.pdb"
+                }
+        }
+}

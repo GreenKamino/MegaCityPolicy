@@ -1,0 +1,48 @@
+MEGACITY: Sector Marshal — Update 2.11.1: Peace Means Peace
+
+Version: 2.11.1
+Build: 25
+Released: 2026-07-13
+Save compatibility: Existing saves load as-is — nothing needs resetting.
+
+Wars now end properly, prosperity has standards, and two new residential-tower stories are waiting. The city remains ungrateful.
+
+---
+
+THE HEADLINE: CEASEFIRES THAT HOLD
+
+- Accept or counter-propose a ceasefire and you’ll get a confirmation dispatch and news-ticker update.
+- The aggressor actually stands down instead of immediately reopening the same conflict.
+- Duplicate offers and repeat-reward exploits are gone, with older saves cleaned up automatically.
+
+TWO NEW STORYLINES
+
+- THE QUIET FLOORS and THE RED DOOR are once-per-playthrough branching stories set in the residential towers. Each has eight chapters, with endings shaped by your choices.
+
+A CITY AT WAR FEELS IT
+
+- Twelve new war-only events bring false air-raid alarms, overcrowded field hospitals, broadcast hijacks, missing conscripts, and other emergencies. Each offers three responses.
+
+THE GOLDEN AGE HAS STANDARDS
+
+- Prosperity now requires decent housing and a healthy environment alongside wealth and morale. A strong balance sheet cannot hide squalor.
+- A one-time advisory and news-ticker hint identify the blocker when housing or ecology keeps the Golden Age out of reach.
+
+ALSO NEW
+
+- Collapse the Active Incidents list on the CITY tab; a badge still shows how many need attention.
+- Officer actions now show their results, stat changes, and credits spent, with protection against accidental double-taps.
+
+FIXED
+
+- Administration → Systems upgrades now apply their advertised tax, trade, utility, crime, unrest, health, and research effects.
+- Story rewards, including orbital-elevator trade income and research bonuses, now reach the budget and research system.
+- News-linked dispatches now show the correct in-game date.
+
+NOTES
+
+- Existing saves are fully compatible. No new city required — every change above applies to your current save.
+
+---
+
+The war is over. The filing on the war has just begun.
